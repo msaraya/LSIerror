@@ -1,0 +1,3 @@
+[submodule "LSIerror"]
+	path = LSIerror
+	url = git://github.com/msaraya/LSIerror.git
