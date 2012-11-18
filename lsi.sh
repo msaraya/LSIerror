@@ -2,7 +2,7 @@
 
 
 #the mail that error will send
-lsi_mail="mohamed.hassan.saraya"
+lsi_mail="mohamed.hassan.saraya@gmail.com"
 
 # make sure the utiliy is installed
 if rpm -q MegaCli &>/dev/null ; then
